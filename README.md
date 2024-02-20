@@ -10,7 +10,18 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Devops and fullstack<br>🎯 Goals: DevSec Engineer<br>🎲 Fun fact: ...</p>
+<p align="left">✨<h3 align="left">More About Me</h3>
+<p align="left">🚀 Passionate about building scalable and robust software solutions<br>
+🌐 Experienced in various programming languages, including but not limited to Java, Python, and JavaScript<br>
+🔐 Committed to ensuring the security of applications through DevSecOps practices<br>
+🛠️ Proficient in utilizing a variety of development and deployment tools in the software development lifecycle<br>
+🌱 Constantly exploring new technologies and staying updated with the latest industry trends<br>
+🎮 Outside of coding, I enjoy gaming and exploring the world of virtual reality<br>
+🎶 Music enthusiast, with a diverse taste ranging from classical to electronic beats<br>
+🌍 Love to connect with fellow developers and tech enthusiasts worldwide<br>
+📖 Always eager to contribute to open-source projects and collaborate on innovative ideas<br>
+🚴‍♂️ Enthusiastic about maintaining a healthy work-life balance and staying physically active</p>
+Feel free to share your own fun fact or any interesting aspect about yourself! 😊</p>
 
 ###
 
