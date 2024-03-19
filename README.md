@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨<h3 align="left">More About Me</h3>
+<p align="left">✨
 <p align="left">🚀 Passionate about building scalable and robust software solutions<br>
 🌐 Experienced in various programming languages, including but not limited to Java, Python, and JavaScript<br>
 🔐 Committed to ensuring the security of applications through DevSecOps practices<br>
